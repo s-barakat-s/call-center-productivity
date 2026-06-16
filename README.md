@@ -1,16 +1,20 @@
-# vodafone
+# Call Center Productivity
 
-A new Flutter project.
+A Flutter-based productivity toolkit designed to simplify repetitive tasks and provide quick access to essential information for call center agents.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Discount and package price calculator
+* Quick access to frequently used information
+* Agent productivity tools
+* Simplified workflows for new employees
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+This project was created to solve real operational challenges encountered in a call center environment by reducing repetitive manual calculations and improving efficiency.
+
